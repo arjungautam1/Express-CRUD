@@ -5,6 +5,6 @@ This repository contains a basic implementation of CRUD (Create, Read, Update, D
 ## Tutorial
 Check out this YouTube tutorial for a step-by-step guide:
 
-[![Tutorial](https://img.youtube.com/vi/s6-0d1YJSvo/0.jpg)](https://youtu.be/s6-0d1YJSvo)
+[![Tutorial](https://youtu.be/BkiB4lkRIAc?si=vPpkj8pyqbii5KSQ)
 
 Feel free to use this code as a starting point for your own projects or to learn more about building web applications with these technologies.
